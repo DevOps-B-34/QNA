@@ -16,3 +16,18 @@
 14. have you deployed application on jenkins or kubernetes
 15. stages of in jenkins pipeline you used
 
+# GURU
+1. what is kernel.
+2. type of kernel 
+3. which kernel we use in Linux
+4. explain crontab and its field
+5. what is terraform local and terraform variable 
+6. what is configmap 
+7. what is secret 
+8. How to secure tfstate file in terraform.
+9. what is shadow and its field
+10. what is demonset 
+11. what is statefulset
+12. what is package management and what is the main purpose.
+13. what is endpoint 
+14. what is nat gataeway
