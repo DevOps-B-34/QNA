@@ -16,7 +16,7 @@
 14. have you deployed application on jenkins or kubernetes
 15. stages of in jenkins pipeline you used
 
-# GURU
+# GURU (Prashant sir)
 1. what is kernel.
 2. type of kernel 
 3. which kernel we use in Linux
