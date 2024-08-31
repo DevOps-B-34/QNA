@@ -34,3 +34,13 @@
 15. what is Route-53
 16. Records of Route-53
 
+
+  ### shreyas mane(sharad sir)
+  1.explain k8s architure \
+  2.explain docker architure \
+  3.explain bucket \
+  4.tell me some networking commands \
+  5.how to do torubleshoot if connection between two server is not working? \
+  6.have you deployed application on kubernetes? \
+  7.what is cluster ip? \
+  8.have you deployed application on kubernetes? 
