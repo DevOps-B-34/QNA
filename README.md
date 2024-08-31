@@ -1,6 +1,5 @@
-# QNA
-Question asked in QNA
-
+# ${\color{red} \textbf{Question asked in QNA}}$
+# TEJAS (sharad sir)
 1. Issues faced in linux
 2. networking commands in linux
 3. how to see ip
@@ -16,3 +15,4 @@ Question asked in QNA
 13. how to monitor pods in kubernetes
 14. have you deployed application on jenkins or kubernetes
 15. stages of in jenkins pipeline you used
+
