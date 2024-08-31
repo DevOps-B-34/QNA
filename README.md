@@ -31,3 +31,6 @@
 12. what is package management and what is the main purpose.
 13. what is endpoint 
 14. what is nat gataeway
+15. what is Route-53
+16. Records of Route-53
+
