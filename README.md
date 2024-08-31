@@ -80,4 +80,5 @@
 13.  what is Docker File , Immages , Container.
 15.  Objects in K8S.
 16.  What is Pod , Replica set , controller...
-17.  Pod HPA( horizintal Pod Scaling )
+17.  Pod HPA( horizintal Pod Scaling ).
+18.  Branching Stragety.
