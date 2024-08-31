@@ -1,4 +1,5 @@
-# ${\color{red} \textbf{Question asked in QNA}}$
+# ${\color{red} \textbf{Question asked in QNA}}$ 
+ 
 ### TEJAS (sharad sir) 
 1. Issues faced in linux
 2. networking commands in linux
@@ -16,6 +17,21 @@
 14. have you deployed application on jenkins or kubernetes
 15. stages of in jenkins pipeline you used
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### AARTI (Prasad sir)
+1. field of passwd 
+2. explain crontab 
+3. how to check the running process 
+4. types of records 
+5. what is tfstate file 
+6. how to secure tfstate file in terraform 
+7. what is CMD and ENTRIPOINT in docker 
+8. port of DNS
+9. what is demonset 
+10. VPC limitaition in one region 
+11. how many subnet, SG, RT in one VPC
+12. what is Replication Controller 
+13. what is Autoscaling
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### GURU (Prasad sir)
 1. what is kernel.
 2. type of kernel 
