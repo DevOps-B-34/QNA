@@ -1,5 +1,5 @@
 # ${\color{red} \textbf{Question asked in QNA}}$
-# TEJAS (sharad sir)
+# TEJAS (sharad sir) 
 1. Issues faced in linux
 2. networking commands in linux
 3. how to see ip
