@@ -15,7 +15,7 @@
 13. how to monitor pods in kubernetes
 14. have you deployed application on jenkins or kubernetes
 15. stages of in jenkins pipeline you used
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### GURU (Prasad sir)
 1. what is kernel.
 2. type of kernel 
@@ -33,7 +33,7 @@
 14. what is nat gataeway
 15. what is Route-53
 16. Records of Route-53
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### PRATHMESH (Prasad sir)
 
 1. how to check CPU information in Linux
@@ -49,9 +49,9 @@
 11. describe the services in k8s
 12. what is package management 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-  # shreyas mane (sharad sir)
+  ### shreyas mane (sharad sir)
   1.explain k8s architure \
   2.explain docker architure \
   3.explain bucket \
