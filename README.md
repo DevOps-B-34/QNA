@@ -1,5 +1,5 @@
 # ${\color{red} \textbf{Question asked in QNA}}$
-# TEJAS (sharad sir) 
+### TEJAS (sharad sir) 
 1. Issues faced in linux
 2. networking commands in linux
 3. how to see ip
@@ -16,7 +16,7 @@
 14. have you deployed application on jenkins or kubernetes
 15. stages of in jenkins pipeline you used
 
-# GURU (Prasad sir)
+### GURU (Prasad sir)
 1. what is kernel.
 2. type of kernel 
 3. which kernel we use in Linux
@@ -34,7 +34,7 @@
 15. what is Route-53
 16. Records of Route-53
 
-# PRATHMESH (Prasad sir)
+### PRATHMESH (Prasad sir)
 
 1. how to check CPU information in Linux
 2. port of NFS 
