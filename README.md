@@ -59,8 +59,8 @@
   5.how to do torubleshoot if connection between two server is not working? \
   6.have you deployed application on kubernetes? \
   7.what is cluster ip? \
-  8.have you deployed application on kubernetes? \
-  9.what are the objects in k8s?
+  8.have you deployed application on docker? \
+  9.what are the objects in k8s? \
   10.have you done any deployment on k8s?
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------
