@@ -60,3 +60,23 @@
   6.have you deployed application on kubernetes? \
   7.what is cluster ip? \
   8.have you deployed application on kubernetes? 
+
+  
+  ###  Manoj Beniwal : (Sharad sir)
+1. what is process management all commands of check process.
+2. how users add , in group , how set permission.
+3. Tell about /etc
+4.  networking commands in linux.
+5.  why AWS .
+6.  why use S3 services.
+7. which project you did.
+8. what is Git & Git Hub.
+9. Why use Git.
+10. What is Terraform.
+11. Resorces in Terraform.
+12. What is Docker , Why Use Docker.
+13.  what is Docker File , Immages , Container.
+14.  What is K8s.
+15.  Objects in K8S.
+16.  What is Pod , Replica set , controller...
+17.  Pod HPA( horizintal Pod Scaling )
