@@ -35,7 +35,7 @@
 16. Records of Route-53
 
 
-  # shreyas mane(sharad sir)
+  # shreyas mane (sharad sir)
   1.explain k8s architure \
   2.explain docker architure \
   3.explain bucket \
