@@ -16,7 +16,7 @@
 14. have you deployed application on jenkins or kubernetes
 15. stages of in jenkins pipeline you used
 
-# GURU (Prashant sir)
+# GURU (Prasad sir)
 1. what is kernel.
 2. type of kernel 
 3. which kernel we use in Linux
@@ -33,6 +33,22 @@
 14. what is nat gataeway
 15. what is Route-53
 16. Records of Route-53
+
+# PRATHMESH (Prasad sir)
+
+1. how to check CPU information in Linux
+2. port of NFS 
+3. Port of MariaDB
+4. field of passwd
+5. what is endpoint 
+6. what is route-53
+7. explain records of route-53
+8. explain s3-backend in terraform
+9. what is terraform local and terraform variable
+10. what is secrets in k8s
+11. describe the services in k8s
+12. what is package management 
+
 
 
   # shreyas mane (sharad sir)
