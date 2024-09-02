@@ -63,7 +63,8 @@
 9. what is terraform local and terraform variable
 10. what is secrets in k8s
 11. describe the services in k8s
-12. what is package management 
+12. what is package management
+13. what is demonset 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
