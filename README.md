@@ -100,3 +100,22 @@
 16.  What is Pod , Replica set , controller...
 17.  Pod HPA( horizintal Pod Scaling ).
 18.  Branching Stragety.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+### Nisha Wagh : (Prasad Sir)
+1. what is prosess managaement
+2. how to check memory and cpu with help of command
+3. diff between deployment and replication set
+4. diff between terraform local and terraform veriable
+5. what is record in route53
+6. how to secure tfstate file
+7. what is autoscaling
+8. what are fields of cron tab
+9. what are passwd field
+10. how many vpc we can add in region
+11. port number of nfs,DNS
+12. how to check cpu --top
+13. what is cmd and entrypoint
+14. diff between cloud formation and terraform
+
+
+
